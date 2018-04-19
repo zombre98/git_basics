@@ -10,5 +10,6 @@
 int main(int argc, char const *argv[])
 {
 	printf("I'm in livecoding branch\n");
+	printf("C'est pas à la norme!!!\n");
 	return 0;
 }
