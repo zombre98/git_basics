@@ -9,7 +9,7 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("Git is so unfair\n");
 	printf("This is Thomas on master ! :)\n");
+	printf("I'm in livecoding branch\n");
 	return 0;
 }
