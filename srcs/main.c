@@ -9,7 +9,7 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("Git is so cool\n");
+	printf("Git is so unfair\n");
 	printf("This is Sandra modifying the main function! :)\n");
 	return 0;
 }
