@@ -10,6 +10,7 @@
 int main(int argc, char const *argv[])
 {
 	printf("this is Sandra changing the main in branch liveconding2 o/ \n");
+	printf("Hola\n");
 	printf("Coucou\n");
 	return 0;
 }
