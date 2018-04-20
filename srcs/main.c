@@ -9,8 +9,6 @@
 
 int main(int argc, char const *argv[])
 {
-	printf("YOOOOOOOOOOOOOOOLOOOOOOOOOOO ! :)\n");
-	printf("I'm in livecoding branch\n");
-	printf("C'est pas à la norme!!!\n");
+	printf("Git is cool\n");
 	return 0;
 }
