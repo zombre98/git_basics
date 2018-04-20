@@ -1,0 +1,1733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clie",
+				"client_fd"
+			],
+			[
+				"s",
+				"sin_addr"
+			],
+			[
+				"re",
+				"return_value"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"ser",
+				"serversrc"
+			],
+			[
+				"res",
+				"responses"
+			],
+			[
+				"c",
+				"cmd"
+			],
+			[
+				"return",
+				"return_value"
+			],
+			[
+				"PR",
+				"printf"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"se",
+				"server"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"cline",
+				"client_size"
+			],
+			[
+				"cli",
+				"client_addr"
+			],
+			[
+				"so",
+				"sockaddr_in"
+			],
+			[
+				"cie",
+				"client_fd"
+			],
+			[
+				"cl",
+				"client_fd"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"print",
+				"print_that_map"
+			],
+			[
+				"win",
+				"window_size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"map",
+				"map_size"
+			],
+			[
+				"prin",
+				"print_that_map"
+			],
+			[
+				"sp",
+				"sprite"
+			],
+			[
+				"e",
+				"eventHandler"
+			],
+			[
+				"E",
+				"EXIT_FAILURE"
+			],
+			[
+				"des",
+				"destroyGfx"
+			],
+			[
+				"get",
+				"getConfig"
+			],
+			[
+				"N",
+				"NAME_SFML"
+			],
+			[
+				"spr",
+				"sprites"
+			],
+			[
+				"core",
+				"Core"
+			],
+			[
+				"lib",
+				"lib_arcade_"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"L",
+				"LDFLAGS"
+			],
+			[
+				"id",
+				"idSprite_t"
+			],
+			[
+				"I",
+				"IGraphic"
+			],
+			[
+				"sh",
+				"shell_exec"
+			],
+			[
+				"sy",
+				"system"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"r",
+				"r11"
+			],
+			[
+				"0x",
+				"0x1A"
+			],
+			[
+				"rd",
+				"r10d"
+			],
+			[
+				"to",
+				"to_maj_sil"
+			],
+			[
+				"wh",
+				"while2"
+			],
+			[
+				"r8",
+				"r8b"
+			],
+			[
+				"st",
+				"str2"
+			],
+			[
+				"m",
+				"mov"
+			],
+			[
+				"NA",
+				"NASMFLAGS"
+			],
+			[
+				"philosp",
+				"Philosopher"
+			],
+			[
+				"F",
+				"FAILURE"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"ph",
+				"philosopher"
+			],
+			[
+				"philosopher_",
+				"philosopher_void"
+			],
+			[
+				"HAS",
+				"HAS_EAT"
+			],
+			[
+				"chos",
+				"g_chopsticks"
+			],
+			[
+				"g",
+				"g_philosophers"
+			],
+			[
+				"phil",
+				"philosopher"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"l",
+				"lphilo_release_chopstick"
+			],
+			[
+				"g_",
+				"g_nb_eat"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"p",
+				"pthread_mutex_t"
+			],
+			[
+				"nbr",
+				"nbr_p"
+			],
+			[
+				"resu",
+				"result1"
+			],
+			[
+				"_p",
+				"_pin"
+			],
+			[
+				"pin",
+				"pinsToOrder"
+			],
+			[
+				"_",
+				"_pins"
+			],
+			[
+				"P_O",
+				"P_OUTPUT"
+			],
+			[
+				"input",
+				"input1"
+			],
+			[
+				"inpu",
+				"input1"
+			],
+			[
+				"tmp",
+				"tmpStateToDefinitiveState"
+			],
+			[
+				"inp",
+				"input1"
+			],
+			[
+				"tm",
+				"tmpStateToDefinitiveState"
+			],
+			[
+				"cr",
+				"cr_content_scripts\tchrome_content_scripts"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"TR",
+				"Tristate"
+			],
+			[
+				"de",
+				"defineState"
+			],
+			[
+				"S",
+				"sumAB"
+			],
+			[
+				"car",
+				"carryAB"
+			],
+			[
+				"T",
+				"Tristate"
+			],
+			[
+				"ti",
+				"Tristate"
+			],
+			[
+				"int",
+				"input"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"_pin",
+				"_pins"
+			],
+			[
+				"co",
+				"compute"
+			],
+			[
+				"link",
+				"linkedPin"
+			],
+			[
+				"si",
+				"simulatechipset"
+			],
+			[
+				"lin",
+				"linkedPin"
+			],
+			[
+				"retru",
+				"return"
+			],
+			[
+				"icn",
+				"include"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"cm",
+				"cmd_line"
+			],
+			[
+				"my_o",
+				"my_objdump"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"sh_",
+				"sh_offset"
+			],
+			[
+				"elf",
+				"elf64"
+			],
+			[
+				"if",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"reun",
+				"return"
+			],
+			[
+				"retu",
+				"return_error"
+			],
+			[
+				"SHT",
+				"SHT_PROGBITS"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"w",
+				"get_week"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"fa",
+				"flag"
+			],
+			[
+				"t_",
+				"t_Elf_symbol"
+			],
+			[
+				"fla",
+				"flag"
+			],
+			[
+				"i",
+				"ifnd\tifndef (…)"
+			],
+			[
+				"che",
+				"check_st_name"
+			],
+			[
+				"El",
+				"Elf64_Ehdr"
+			],
+			[
+				"shr",
+				"shstrtab"
+			],
+			[
+				"pritn",
+				"printLine"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"ote",
+				"otherPin"
+			],
+			[
+				"ma",
+				"maxPin"
+			],
+			[
+				"getPi",
+				"getPinTypeAt"
+			],
+			[
+				"Er",
+				"ErrorPin"
+			],
+			[
+				"Erros",
+				"Errors"
+			],
+			[
+				"_com",
+				"_components"
+			],
+			[
+				"lam",
+				"lambdadecla"
+			],
+			[
+				"other",
+				"otherPin"
+			],
+			[
+				"n",
+				"nbPins"
+			],
+			[
+				"bl",
+				"block_t"
+			],
+			[
+				"R",
+				"realloc"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"cha",
+				"channels"
+			],
+			[
+				"cons",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 2918,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n** EPITECH PROJECT, 2017\n** Livecoding\n** File description:\n**         No desc\n*/\n\n#include \"livecoding.h\"\n\nint main(int argc, char const *argv[])\n{\n\tprintf(\"Git is so unfair\\n\");\n\tprintf(\"This is Sandra modifying the main function! :)\\n\");\n\treturn 0;\n}",
+			"file": "srcs/main.c",
+			"file_size": 256,
+			"file_write_time": 131686059497470494,
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 62,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/livecoding.h",
+			"settings":
+			{
+				"buffer_size": 163,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/bdsh.sublime-build",
+					""
+				],
+				[
+					"Packages/User/readjson.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/readjson.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 355.0,
+		"last_filter": "them",
+		"selected_items":
+		[
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"64",
+				"Set Syntax: x86 and x86_64 Assembly"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project: Refresh Folders"
+			],
+			[
+				"edit ",
+				"Project: Edit Project"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"lin",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"RE",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippet hea",
+				"Snippet: header"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"con",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"confu",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"package control: se",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"sett",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Epi",
+				"Package Control: Install Package"
+			],
+			[
+				"ressource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet:i",
+				"Snippet: ifndef (…)"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setC",
+				"Set Syntax: C"
+			],
+			[
+				"valgrind",
+				"Set Syntax: Valgrind"
+			],
+			[
+				"settin",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"sublimeLinter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indenr",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"Snippet: header"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"ls",
+			"gcc "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zombre/git_basics"
+	],
+	"file_history":
+	[
+		"/home/zombre/git_basics/untracked",
+		"/home/zombre/git_basics/.gitignore",
+		"/home/zombre/git_basics/.gitingnore",
+		"/home/zombre/tek2/cpp_nanotekspice/Makefile",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/init.c",
+		"/home/zombre/tek2/PSU_myftp_2017/Makefile",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/server.c",
+		"/home/zombre/tek2/PSU_myftp_2017/include/server.h",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/main.c",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/utils.c",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/authentification.c",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/cd_command.c",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/command.c",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/active_command.c",
+		"/home/zombre/tek2/PSU_myftp_2017/clientsrc/main.c",
+		"/home/zombre/tek1/PSU/PSU_2016_42sh/gnl/get_next_line.c",
+		"/home/zombre/tek2/PSU_myftp_2017/test_ftp.sh",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/help_cmd.c",
+		"/home/zombre/tek2/PSU_myftp_2017/serversrc/str_to_wordtab.c",
+		"/home/zombre/tek1/PSU/PSU_2016_42sh/builtins/cd_func/cd.c",
+		"/home/zombre/tek1/PSU/PSU_2016_42sh/cd.c",
+		"/home/zombre/tek1/PSU/PSU_2016_42sh/basics_func/my_str_to_wordtab.c",
+		"/home/zombre/tek2/PSU_myftp_2017/server",
+		"/home/zombre/tek1/PSU/PSU_2016_42sh/Makefile",
+		"/home/zombre/tek1/PSU/PSU_2016_minishell1/main.c",
+		"/home/zombre/tek1/PSU/PSU_2016_minishell1/my_strcpy.c",
+		"/home/zombre/tek1/PSU/PSU_2016_minishell1/my_seg.c",
+		"/home/zombre/tek1/PSU/PSU_2016_minishell1/str_to_wordtab.c",
+		"/home/zombre/tek1/PSU/PSU_2016_minishell1/minishell.h",
+		"/home/zombre/tek1/PSU/PSU_2016_minishell1/find_path.c",
+		"/home/zombre/tek2/PSU_myftp_2017/myftp.sublime-project",
+		"/home/zombre/tek2/PSU_lemipc_2017/Makefile",
+		"/home/zombre/tek2/PSU_myftp_2017/client/main.c",
+		"/home/zombre/tek2/PSU_myftp_2017/server/main.c",
+		"/home/zombre/tek2/PSU_2017_nmobjdump/Makefile",
+		"/home/zombre/tek2/PSU_myftp_2017/.gitignore",
+		"/home/zombre/tek2/ASM_minilibc_2017/syscall.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strlen.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/memcpy.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/main.c",
+		"/home/zombre/tek2/ASM_minilibc_2017/test.sh",
+		"/home/zombre/tek2/ASM_minilibc_2017/Makefile",
+		"/home/zombre/tek2/ASM_minilibc_2017/strcmp.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strcspn.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/read.asm",
+		"/home/zombre/tek2/PSU_lemipc_2017/include/lemipc.h",
+		"/home/zombre/.config/polybar/config",
+		"/home/zombre/tek2/cpp_arcade/.git/COMMIT_EDITMSG",
+		"/home/zombre/tek2/cpp_arcade/.gitignore",
+		"/home/zombre/.config/polybar/old_config",
+		"/home/zombre/tek2/PSU_lemipc_2017/test.sh",
+		"/home/zombre/tek2/PSU_lemipc_2017/bonus/include/lemipc.hpp",
+		"/home/zombre/tek2/PSU_lemipc_2017/bonus/lemipc.cpp",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/tools.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/bonus/main.cpp",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/slave.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/AI.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/master.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/map.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/comunication.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/src/main.c",
+		"/home/zombre/tek2/PSU_lemipc_2017/bonus/Makefile",
+		"/home/zombre/.config/polybar/prev_config",
+		"/home/zombre/.config/polybar/redshift.sh",
+		"/home/zombre/.config/i3/config",
+		"/home/zombre/tek2/PSU_lemipc_2017/bonus/include/lemipc.cpp",
+		"/home/zombre/tek2/PSU_lemipc_2017/bonus/include/lemipc.hpp.",
+		"/home/zombre/tek2/cpp_arcade/Makefile",
+		"/home/zombre/tek2/PSU_lemipc_2017/main.cpp",
+		"/home/zombre/tek2/cpp_nanotekspice/Nanotekspice.sublime-project",
+		"/etc/pacman.conf",
+		"/home/zombre/tek2/PSU_lemipc_2017/lemipc.sublime-project",
+		"/home/zombre/pacmansh",
+		"/home/zombre/tek2/PSU_lemipc_2017/.gitignore",
+		"/home/zombre/tek2/cpp_arcade/include/IGraphique.hpp",
+		"/home/zombre/tek2/cpp_arcade/main.cpp",
+		"/home/zombre/tek2/cpp_arcade/core.cpp",
+		"/home/zombre/tek2/cpp_arcade/include/core.hpp",
+		"/home/zombre/tek2/cpp_arcade/include/Sdl.hpp",
+		"/home/zombre/tek2/cpp_arcade/lib/Makefile",
+		"/home/zombre/tek2/cpp_arcade/lib/Sdl.cpp",
+		"/home/zombre/tek2/cpp_arcade/lib/sfml.cpp",
+		"/home/zombre/tek2/cpp_arcade/config/SFML_menu.conf",
+		"/home/zombre/tek2/cpp_arcade/lib/nCurses.cpp",
+		"/home/zombre/tek2/cpp_arcade/config/SDL_menu.conf",
+		"/home/zombre/tek2/cpp_arcade/config/Sdl_menu.conf",
+		"/home/zombre/tek2/cpp_arcade/include/nCurses.hpp",
+		"/home/zombre/tek2/cpp_arcade/include/sfml.hpp",
+		"/home/zombre/tek2/cpp_arcade/lib/Xlib.cpp",
+		"/home/zombre/tek2/cpp_arcade/include/Xlib.hpp",
+		"/home/zombre/tek2/cpp_arcade/config/ncurses_menu.conf",
+		"/home/zombre/tek2/cpp_arcade/config/sfml_menu.conf",
+		"/home/zombre/tek2/cpp_arcade/config/sfml_pacman.conf",
+		"/home/zombre/tek2/cpp_arcade/images/pacman/config/sfml_pacman.conf",
+		"/home/zombre/tek2/cpp_arcade/test",
+		"/home/zombre/tek2/cpp_arcade/images/pacman/atlas_pacman.jpeg",
+		"/home/zombre/tek2/cpp_arcade/config/ncurses_pacman.conf",
+		"/home/zombre/tek2/cpp_arcade/pacman/main.cpp",
+		"/home/zombre/tek2/cpp_arcade/libSfml.cpp",
+		"/home/zombre/.config/dunst/dunstrc",
+		"/home/zombre/tek2/cpp_arcade/lib/IGraphique.cpp",
+		"/home/zombre/tek2/cpp_arcade/config/menu-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/ghost-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/cherry-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/space-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/images/pacman/wall-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/images/pacman/space-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/images/pacman/pacman-ncurses.txt",
+		"/home/zombre/tek2/cpp_arcade/ncurses_pacman.conf",
+		"/home/zombre/tek2/cpp_arcade/ncurses.conf",
+		"/home/zombre/tek2/cpp_arcade/Nanotekspice.sublime-project",
+		"/home/zombre/tek2/cpp_arcade/mainncurses.cpp",
+		"/home/zombre/tek2/cpp_arcade/arcade.sublime-workspace",
+		"/home/zombre/tek2/ASM_minilibc_2017/memmove.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strncmp.asm",
+		"/home/zombre/.config/polybar/spotify.sh",
+		"/home/zombre/secu/upload.php",
+		"/home/zombre/secu/upload.php.png",
+		"/home/zombre/Pictures/2018-02-26-235600_1920x1080_scrot.png",
+		"/home/zombre/tek2/ASM_minilibc_2017/strbprk.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strstr.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strprk.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strchr.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/rindex.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/strcasecmp.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/memmoev.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/memset.asm",
+		"/home/zombre/tek2/ASM_minilibc_2017/memcpy.c"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 201.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cpp",
+			"nanotekspice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "srcs/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.87.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.gcc.Gutter.region.redish markup.deleted.sublime_linter markup.error.sublime_linter.dot",
+								"SL.gcc.Highlights.|region.redish markup.deleted.sublime_linter markup.error.sublime_linter|32"
+							],
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/livecoding.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"SL.37.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 129.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 150.0
+	},
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 472.0
+	},
+	"pinned_build_system": "",
+	"project": "git_basics.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				".",
+				".gitingnore"
+			],
+			[
+				"init",
+				"serversrc/init.c"
+			],
+			[
+				"ini",
+				"serversrc/init.c"
+			],
+			[
+				"ma",
+				"Makefile"
+			],
+			[
+				"ac",
+				"serversrc/active_command.c"
+			],
+			[
+				"in",
+				"serversrc/init.c"
+			],
+			[
+				"server",
+				"include/server.h"
+			],
+			[
+				"ser",
+				"serversrc/server.c"
+			],
+			[
+				"mainc",
+				"serversrc/main.c"
+			],
+			[
+				"",
+				"serversrc/utils.c"
+			],
+			[
+				"int",
+				"serversrc/init.c"
+			],
+			[
+				"test",
+				"test_ftp.sh"
+			],
+			[
+				"cd",
+				"serversrc/cd_command.c"
+			],
+			[
+				"he",
+				"serversrc/help_cmd.c"
+			],
+			[
+				"utils",
+				"serversrc/utils.c"
+			],
+			[
+				"str",
+				"serversrc/str_to_wordtab.c"
+			],
+			[
+				"comma",
+				"serversrc/command.c"
+			],
+			[
+				"comm",
+				"serversrc/command.c"
+			],
+			[
+				"m",
+				"Makefile"
+			],
+			[
+				"main",
+				"serversrc/main.c"
+			],
+			[
+				"a",
+				"clientsrc/main.c"
+			],
+			[
+				"serv",
+				"include/server.h"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"serve",
+				"include/server.h"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"tes",
+				"test.sh"
+			],
+			[
+				"strlen",
+				"strlen.asm"
+			],
+			[
+				"strcspn",
+				"strcspn.asm"
+			],
+			[
+				"strcmp",
+				"strcmp.asm"
+			],
+			[
+				"inc",
+				"include/lemipc.h"
+			],
+			[
+				"lemi",
+				"bonus/include/lemipc.hpp"
+			],
+			[
+				"lem",
+				"include/lemipc.h"
+			],
+			[
+				"lemipc",
+				"bonus/lemipc.cpp"
+			],
+			[
+				"mas",
+				"src/master.c"
+			],
+			[
+				"le",
+				"bonus/lemipc.cpp"
+			],
+			[
+				"ai",
+				"src/AI.c"
+			],
+			[
+				"master",
+				"src/master.c"
+			],
+			[
+				"main.c",
+				"src/main.c"
+			],
+			[
+				"tool",
+				"src/tools.c"
+			],
+			[
+				"tools",
+				"src/tools.c"
+			],
+			[
+				"map",
+				"src/map.c"
+			],
+			[
+				"lemic",
+				"bonus/include/lemipc.hpp"
+			],
+			[
+				"lemip",
+				"bonus/lemipc.cpp"
+			],
+			[
+				"main.cpp",
+				"bonus/main.cpp"
+			],
+			[
+				"l",
+				"include/lemipc.h"
+			],
+			[
+				"core.",
+				"include/core.hpp"
+			],
+			[
+				"core",
+				"core.cpp"
+			],
+			[
+				"sfml",
+				"config/SFML_menu.conf"
+			],
+			[
+				"sf",
+				"lib/sfml.cpp"
+			],
+			[
+				"ici",
+				"include/IGraphique.hpp"
+			],
+			[
+				"nc",
+				"lib/nCurses.cpp"
+			],
+			[
+				"i",
+				"include/IGraphique.hpp"
+			],
+			[
+				"sdl_",
+				"config/SDL_menu.conf"
+			],
+			[
+				"sdl",
+				"include/Sdl.hpp"
+			],
+			[
+				"sdl_m",
+				"config/Sdl_menu.conf"
+			],
+			[
+				"s",
+				"lib/Sdl.cpp"
+			],
+			[
+				"ncu",
+				"include/nCurses.hpp"
+			],
+			[
+				"ncurs",
+				"lib/nCurses.cpp"
+			],
+			[
+				"hpp",
+				"include/nCurses.hpp"
+			],
+			[
+				"c",
+				"core.cpp"
+			],
+			[
+				"x",
+				"lib/Xlib.cpp"
+			],
+			[
+				"ncur",
+				"lib/nCurses.cpp"
+			],
+			[
+				"xli",
+				"include/Xlib.hpp"
+			],
+			[
+				"xlib",
+				"lib/Xlib.cpp"
+			],
+			[
+				"iga",
+				"include/IGraphique.hpp"
+			],
+			[
+				"n",
+				"lib/nCurses.cpp"
+			],
+			[
+				"xl",
+				"include/Xlib.hpp"
+			],
+			[
+				"pro",
+				"Nanotekspice.sublime-project"
+			],
+			[
+				"u",
+				"Nanotekspice.sublime-project"
+			],
+			[
+				"ph",
+				"include/philosopher.h"
+			],
+			[
+				"cac",
+				"caca"
+			],
+			[
+				"p",
+				"srcs/philosophers.c"
+			],
+			[
+				"404",
+				"include/components/C4040.hpp"
+			],
+			[
+				"69",
+				"src/components/C4069.cpp"
+			],
+			[
+				"40",
+				"src/components/C4040.cpp"
+			],
+			[
+				"she",
+				"src/Shell.cpp"
+			],
+			[
+				"my",
+				"chipset/my_test2.nts"
+			],
+			[
+				"pa",
+				"src/Parser.cpp"
+			],
+			[
+				"4013",
+				"src/components/C4013.cpp"
+			],
+			[
+				"ico",
+				"include/IComponent.hpp"
+			],
+			[
+				"acom",
+				"src/AComponent.cpp"
+			],
+			[
+				"par",
+				"objects/src/Parser.d"
+			],
+			[
+				"ccl",
+				"src/components/CClock.cpp"
+			],
+			[
+				"81",
+				"include/components/C4081.hpp"
+			],
+			[
+				"71",
+				"include/components/C4071.hpp"
+			],
+			[
+				"30",
+				"include/components/C4030.hpp"
+			],
+			[
+				"4017",
+				"src/components/C4017.cpp"
+			],
+			[
+				"401",
+				"src/components/C4013.cpp"
+			],
+			[
+				"11",
+				"include/components/C4011.hpp"
+			],
+			[
+				"4011",
+				"src/components/C4011.cpp"
+			],
+			[
+				"400",
+				"include/components/C4001.hpp"
+			],
+			[
+				"e",
+				"src/Errors.cpp"
+			],
+			[
+				"my_te",
+				"chipset/my_test.nts"
+			],
+			[
+				"cclock.hpp",
+				"include/components/CClock.hpp"
+			],
+			[
+				"ic",
+				"include/IComponent.hpp"
+			],
+			[
+				"clock",
+				"src/components/CClock.cpp"
+			],
+			[
+				"cin",
+				"src/components/CInput.cpp"
+			],
+			[
+				"inver",
+				"chipset/inverter.nts"
+			],
+			[
+				"4069",
+				"src/components/C4069.cpp"
+			],
+			[
+				"cc",
+				"src/components/CClock.cpp"
+			],
+			[
+				"4801",
+				"src/components/C4801.cpp"
+			],
+			[
+				"45",
+				"src/components/C4514.cpp"
+			],
+			[
+				"4040",
+				"src/components/C4040.cpp"
+			],
+			[
+				"tr",
+				"chipset/true.nts"
+			],
+			[
+				"4071",
+				"src/components/C4071.cpp"
+			],
+			[
+				"4081",
+				"src/components/C4081.cpp"
+			],
+			[
+				"4030",
+				"src/components/C4030.cpp"
+			],
+			[
+				"cf",
+				"src/components/CFalse.cpp"
+			],
+			[
+				"ctrue",
+				"src/components/CTrue.cpp"
+			],
+			[
+				"ct",
+				"include/components/CTrue.hpp"
+			],
+			[
+				"4013.h",
+				"include/components/C4013.hpp"
+			],
+			[
+				"4001",
+				"src/components/C4001.cpp"
+			],
+			[
+				"inpu",
+				"src/components/CInput.cpp"
+			],
+			[
+				"input",
+				"include/components/CInput.hpp"
+			],
+			[
+				"an",
+				"chipset/and.nts"
+			],
+			[
+				"cfa",
+				"src/components/CFalse.cpp"
+			],
+			[
+				"c400",
+				"include/components/C4008.hpp"
+			],
+			[
+				"407",
+				"src/components/C4071.cpp"
+			],
+			[
+				"408",
+				"src/components/C4081.cpp"
+			],
+			[
+				"and",
+				"chipset/and.nts"
+			],
+			[
+				"ci",
+				"src/components/CInput.cpp"
+			],
+			[
+				"icom",
+				"include/IComponent.hpp"
+			],
+			[
+				"no",
+				"chipset/nor.nts"
+			],
+			[
+				"shell",
+				"include/Shell.hpp"
+			],
+			[
+				"4008",
+				"src/components/C4008.cpp"
+			],
+			[
+				"aco",
+				"include/AComponent.hpp"
+			],
+			[
+				"my_",
+				"chipset/my_test.nts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 555.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/tek2/PSU_myftp_2017/myftp.sublime-project"
+			],
+			[
+				"c",
+				"~/tek2/cpp_arcade/arcade.sublime-workspace"
+			],
+			[
+				"ar",
+				"~/tek2/cpp_arcade/arcade.sublime-workspace"
+			]
+		],
+		"width": 388.0
+	},
+	"select_symbol":
+	{
+		"height": 309.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 375.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
